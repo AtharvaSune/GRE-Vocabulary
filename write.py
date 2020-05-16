@@ -18,7 +18,7 @@ def write(verbose = 'N', test = True):
             except:
                 prev_words = dict()
             
-            while cont.upper() != 'N':
+            while cont[0].upper() != 'N':
                 if cont == 'y':
                     wordList = input("Enter the word (if >1 space separated): ").split()
                 else:
@@ -28,21 +28,27 @@ def write(verbose = 'N', test = True):
                 for word in wordList:
                     if word in prev_words.keys():
                         print(f"You have encountered the word {word}")
-                        print("Try and remember (10 seconds)")
-                        wait = 'y'
+                        print("Try and remember")
+                        
                         r = False
-                        while wait.upper()=='Y':
-                            time.sleep(10)
-                            if input("Remember ?: ").upper() == 'Y':
-                                wait = 'n'
-                                r = True
-                            else:
-                                if input("Continue waiting ?(10 seconds): ").upper() == 'Y':
-                                    wait = 'y'
-                                else:
+                        if not test:
+                            wait = 'y'
+                            while wait.upper()=='Y':
+                                time.sleep(10)
+                                if input("Remember ?: ").upper() == 'Y':
                                     wait = 'n'
+                                    r = True
                         
                         if not r:
+                            nr = open("Not Remember", "r+")
+                            nrList = nr.read().strip().split("\n")
+                            if word not in nrList:
+                                nr.write(word.upper())
+                                nr.write("\n")
+                            nr.close()
+                            del nr
+                            del nrList
+                            
                             if test:
                                 print(f"{colored('Bad luck look it up later', 'cyan')} \N{disappointed face}")
                             else:
@@ -61,11 +67,15 @@ def write(verbose = 'N', test = True):
                         sys.stdout = sys.__stdout__
 
                         if meaning is None:
-                            print(f"{colored('We dont have this word, !!! sorry', 'red')} \N{disappointed face}")
+                            print(f"{colored(f'We dont have the word {word}, !!! sorry', 'red')} \N{disappointed face}")
                             nf = open("Not Found", 'a+')
-                            nf.write(word.upper())
-                            nf.write("\n")
+                            nfList = set(nf.read().strip().split("\n"))
+                            if word not in nfList:
+                                nf.write(word.upper())
+                                nf.write("\n")
                             nf.close()
+                            del nf
+                            del nfList
 
                         else:
                             words[word] = dict()
@@ -80,9 +90,9 @@ def write(verbose = 'N', test = True):
                                 parse_dict(len(word), None, words[word])
                                 print("\n=============================\n")
                             else:
-                                print(f"{colored('We found the word', 'green')} \N{grinning face}")
+                                print(f"{colored(f'We found the word {word}', 'green')} \N{grinning face}")
 
-                cont = input("New word (if >1 space separated): ")
+                cont = input("New word (if >1 space separated): ").split()
             
             prev_words.update(words)
             f.seek(0)
@@ -103,4 +113,14 @@ def write(verbose = 'N', test = True):
     except EnvironmentError as e:
         print(f"Something went wrong\n {e}")
 
-        
+    return
+
+if __name__ == "__main__":
+    v = input("Do you want to display meaning of words added?(Y/N): ").upper()
+    test = input("Giving any test or activity(Y/N): ").upper()
+    if test == 'Y':
+        test = True
+    else:
+        test = False
+    
+    write(v, test)

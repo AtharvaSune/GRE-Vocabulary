@@ -11,6 +11,15 @@
     },
     "synonym": null
   },
+  "ADROIT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "quick or skillful or adept in action or thought"
+      ]
+    },
+    "synonym": null
+  },
   "AGGRANDIZEMENT": {
     "antonyms": null,
     "meaning": {
@@ -26,6 +35,16 @@
       "Noun": [
         "a final climactic stage",
         "apoapsis in Earth orbit; the point in its orbit where a satellite is at the greatest distance from the Earth"
+      ]
+    },
+    "synonym": null
+  },
+  "ARCHAIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "so extremely old as seeming to belong to an earlier period",
+        "little evolved from or characteristic of an earlier ancestral type"
       ]
     },
     "synonym": null
@@ -48,6 +67,16 @@
         "sorrow for sin arising from fear of damnation",
         "a wearing down to weaken or destroy",
         "the act of rubbing together; wearing something down by friction"
+      ]
+    },
+    "synonym": null
+  },
+  "AVER": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "report or maintain",
+        "to declare or affirm solemnly and formally as true"
       ]
     },
     "synonym": null
@@ -194,6 +223,15 @@
     },
     "synonym": null
   },
+  "COGENT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "powerfully persuasive"
+      ]
+    },
+    "synonym": null
+  },
   "CONFOUND": {
     "antonyms": null,
     "meaning": {
@@ -228,6 +266,15 @@
     "meaning": {
       "Adjective": [
         "believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others"
+      ]
+    },
+    "synonym": null
+  },
+  "DEFT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "skillful in physical movements; especially of the hands"
       ]
     },
     "synonym": null
@@ -361,6 +408,25 @@
     },
     "synonym": null
   },
+  "EULOGY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a formal expression of praise for someone who has died recently",
+        "a formal expression of praise"
+      ]
+    },
+    "synonym": null
+  },
+  "EXCULPATE": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "pronounce not guilty of criminal charges"
+      ]
+    },
+    "synonym": null
+  },
   "EXEGESIS": {
     "antonyms": null,
     "meaning": {
@@ -398,12 +464,32 @@
     },
     "synonym": null
   },
+  "FORSWEAR": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "formally reject or disavow a formerly held belief, usually under pressure"
+      ]
+    },
+    "synonym": null
+  },
   "FURTIVE": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "marked by quiet and caution and secrecy; taking pains to avoid being observed",
         "secret and sly or sordid"
+      ]
+    },
+    "synonym": null
+  },
+  "GAMBIT": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "an opening remark intended to secure an advantage for the speaker",
+        "a maneuver in a game or conversation",
+        "a chess move early in the game in which the player sacrifices minor pieces in order to obtain an advantageous position"
       ]
     },
     "synonym": null
@@ -415,6 +501,15 @@
         "(of animals",
         "instinctively or temperamentally seeking and enjoying the company of others",
         "(of plants"
+      ]
+    },
+    "synonym": null
+  },
+  "HACKNEYED": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "repeated too often; overfamiliar through overuse"
       ]
     },
     "synonym": null
@@ -484,12 +579,31 @@
     },
     "synonym": null
   },
+  "INDOLENCE": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "inactivity resulting from a dislike of work"
+      ]
+    },
+    "synonym": null
+  },
   "INEXORABLE": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "not to be placated or appeased or moved by entreaty",
         "impervious to pleas, persuasion, requests, reason"
+      ]
+    },
+    "synonym": null
+  },
+  "INSIPID": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "lacking taste or flavor or tang",
+        "lacking interest or significance or impact"
       ]
     },
     "synonym": null
@@ -524,6 +638,18 @@
     },
     "synonym": null
   },
+  "ITINERANT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "traveling from place to place to work"
+      ],
+      "Noun": [
+        "a laborer who moves from place to place as demanded by employment"
+      ]
+    },
+    "synonym": null
+  },
   "LASCIVIOUS": {
     "antonyms": null,
     "meaning": {
@@ -550,6 +676,18 @@
       "Noun": [
         "the quality of being lewd and lascivious",
         "dissolute indulgence in sensual pleasure"
+      ]
+    },
+    "synonym": null
+  },
+  "LUCID": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "(of language",
+        "having a clear mind",
+        "capable of thinking and expressing yourself in a clear and consistent manner",
+        "transmitting light; able to be seen through with clarity"
       ]
     },
     "synonym": null
@@ -581,12 +719,41 @@
     },
     "synonym": null
   },
+  "MISANTHROPIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others",
+        "hating mankind in general"
+      ]
+    },
+    "synonym": null
+  },
+  "MORIBUND": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "not growing or changing; without force or vitality",
+        "being on the point of death; breathing your last"
+      ]
+    },
+    "synonym": null
+  },
   "NADIR": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "an extreme state of adversity; the lowest point of anything",
         "the point below the observer that is directly opposite the zenith on the imaginary sphere against which celestial bodies appear to be projected"
+      ]
+    },
+    "synonym": null
+  },
+  "NARCISSISTIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "characteristic of those having an inflated idea of their own importance"
       ]
     },
     "synonym": null
@@ -607,6 +774,16 @@
         "the process of oscillating between states",
         "(physics",
         "a single complete execution of a periodically repeated phenomenon"
+      ]
+    },
+    "synonym": null
+  },
+  "PARSIMONY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "extreme care in spending money; reluctance to spend money unnecessarily",
+        "extreme stinginess"
       ]
     },
     "synonym": null
@@ -648,6 +825,16 @@
     },
     "synonym": null
   },
+  "PERFIDY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "betrayal of a trust",
+        "an act of deliberate betrayal"
+      ]
+    },
+    "synonym": null
+  },
   "PERIPATETIC": {
     "antonyms": null,
     "meaning": {
@@ -674,11 +861,39 @@
     },
     "synonym": null
   },
+  "PROLIFIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "intellectually productive",
+        "bearing in abundance especially offspring"
+      ]
+    },
+    "synonym": null
+  },
   "PUISSANCE": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "power to influence or coerce"
+      ]
+    },
+    "synonym": null
+  },
+  "RANCOR": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a feeling of deep and bitter anger and ill-will"
+      ]
+    },
+    "synonym": null
+  },
+  "RECANT": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "formally reject or disavow a formerly held belief, usually under pressure"
       ]
     },
     "synonym": null
@@ -781,6 +996,28 @@
     },
     "synonym": null
   },
+  "STRATAGEM": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a maneuver in a game or conversation",
+        "an elaborate or deceitful scheme contrived to deceive or evade"
+      ]
+    },
+    "synonym": null
+  },
+  "SUBSTANTIATE": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "establish or strengthen as with new evidence or facts",
+        "represent in bodily form",
+        "make real or concrete; give reality or substance to",
+        "solidify, firm, or strengthen"
+      ]
+    },
+    "synonym": null
+  },
   "SUNDRY": {
     "antonyms": null,
     "meaning": {
@@ -833,6 +1070,15 @@
     },
     "synonym": null
   },
+  "UNTENABLE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "(of theories etc"
+      ]
+    },
+    "synonym": null
+  },
   "URBANE": {
     "antonyms": null,
     "meaning": {
@@ -847,6 +1093,26 @@
     "meaning": {
       "Adjective": [
         "capable of being corrupted"
+      ]
+    },
+    "synonym": null
+  },
+  "VERDANT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "characterized by abundance of verdure"
+      ]
+    },
+    "synonym": null
+  },
+  "VIRULENT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "extremely poisonous or injurious; producing venom",
+        "infectious; having the ability to cause disease",
+        "harsh or corrosive in tone"
       ]
     },
     "synonym": null

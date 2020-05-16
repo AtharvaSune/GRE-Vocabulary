@@ -7,12 +7,21 @@ def search():
         words = json.load(f)
         f.close()
     
+    with open("Not Remember", 'r') as f:
+        nrList = f.read().strip().split("\n")
+        f.close()
+
     print("Words Available\n-------------------------------\n")
     wordList = list(words.keys())
     j = 0
     for i in wordList:
         if j < 10:
-            print(colored(i.capitalize(), 'cyan'), end=', ')
+            if i.upper() in nrList:
+                color = 'red'
+            else:
+                color = 'cyan'
+
+            print(colored(i.capitalize(), color), end=', ')
             j += 1
         else:
             print("\n")
@@ -38,4 +47,6 @@ def search():
             break 
     
     return
-        
+
+if __name__ == "__main__":
+    search()
