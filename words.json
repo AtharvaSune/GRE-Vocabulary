@@ -1,4 +1,13 @@
 {
+  "ABASHED": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "feeling or caused to feel ill at ease or self-conscious or ashamed"
+      ]
+    },
+    "synonym": null
+  },
   "ABERRANT": {
     "antonyms": null,
     "meaning": {
@@ -7,6 +16,16 @@
       ],
       "Noun": [
         "one whose behavior departs substantially from the norm of a group"
+      ]
+    },
+    "synonym": null
+  },
+  "ACERBIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "sour or bitter in taste",
+        "harsh or corrosive in tone"
       ]
     },
     "synonym": null
@@ -29,12 +48,50 @@
     },
     "synonym": null
   },
+  "ALACRITY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "liveliness and eagerness"
+      ]
+    },
+    "synonym": null
+  },
+  "AMIABLE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "disposed to please",
+        "diffusing warmth and friendliness"
+      ]
+    },
+    "synonym": null
+  },
+  "ANTIPATHY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a feeling of intense dislike",
+        "the object of a feeling of intense aversion; something to be avoided"
+      ]
+    },
+    "synonym": null
+  },
   "APOGEE": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "a final climactic stage",
         "apoapsis in Earth orbit; the point in its orbit where a satellite is at the greatest distance from the Earth"
+      ]
+    },
+    "synonym": null
+  },
+  "APPROBATORY": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "expressing or manifesting praise or approval"
       ]
     },
     "synonym": null
@@ -54,6 +111,15 @@
     "meaning": {
       "Noun": [
         "something that serves as a model or a basis for making copies"
+      ]
+    },
+    "synonym": null
+  },
+  "ASSIDUOUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "marked by care and persistent effort"
       ]
     },
     "synonym": null
@@ -110,6 +176,37 @@
       ],
       "Verb": [
         "bring up a topic for discussion"
+      ]
+    },
+    "synonym": null
+  },
+  "BYGONE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "well in the past; former"
+      ],
+      "Noun": [
+        "past events to be put aside"
+      ]
+    },
+    "synonym": null
+  },
+  "CALLOW": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "young and inexperienced"
+      ]
+    },
+    "synonym": null
+  },
+  "CALUMNY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a false accusation of an offense or a malicious misrepresentation of someone's words or actions",
+        "an abusive attack on a person's character or good name"
       ]
     },
     "synonym": null
@@ -261,6 +358,18 @@
     },
     "synonym": null
   },
+  "CRAVEN": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "lacking even the rudiments of courage; abjectly fearful"
+      ],
+      "Noun": [
+        "an abject coward"
+      ]
+    },
+    "synonym": null
+  },
   "CYNICAL": {
     "antonyms": null,
     "meaning": {
@@ -270,11 +379,31 @@
     },
     "synonym": null
   },
+  "DECOROUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "characterized by propriety and dignity and good taste in manners and conduct",
+        "according with custom or propriety"
+      ]
+    },
+    "synonym": null
+  },
   "DEFT": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "skillful in physical movements; especially of the hands"
+      ]
+    },
+    "synonym": null
+  },
+  "DENOUEMENT": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "the outcome of a complex sequence of events",
+        "the final resolution of the main complication of a literary or dramatic work"
       ]
     },
     "synonym": null
@@ -308,6 +437,16 @@
     },
     "synonym": null
   },
+  "DIFFIDENT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "showing modest reserve",
+        "lacking self-confidence"
+      ]
+    },
+    "synonym": null
+  },
   "DISABUSE": {
     "antonyms": null,
     "meaning": {
@@ -335,6 +474,15 @@
         "failure that results in a loss of position or reputation",
         "the falling to earth of any form of water (rain or snow or hail or sleet or mist",
         "a sudden decline in strength or number or importance"
+      ]
+    },
+    "synonym": null
+  },
+  "DROLL": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "comical in an odd or whimsical manner"
       ]
     },
     "synonym": null
@@ -379,6 +527,18 @@
     },
     "synonym": null
   },
+  "EPHEMERAL": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "lasting a very short time"
+      ],
+      "Noun": [
+        "anything short-lived, as an insect that lives only for a day in its winged form"
+      ]
+    },
+    "synonym": null
+  },
   "ESCHEW": {
     "antonyms": null,
     "meaning": {
@@ -414,6 +574,15 @@
       "Noun": [
         "a formal expression of praise for someone who has died recently",
         "a formal expression of praise"
+      ]
+    },
+    "synonym": null
+  },
+  "EVANESCENT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "tending to vanish like vapor"
       ]
     },
     "synonym": null
@@ -455,11 +624,29 @@
     },
     "synonym": null
   },
+  "FELONIOUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "involving or being or having the nature of a crime"
+      ]
+    },
+    "synonym": null
+  },
   "FLIPPANT": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "showing inappropriate levity"
+      ]
+    },
+    "synonym": null
+  },
+  "FORESHADOW": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "indicate, as with a sign or an omen"
       ]
     },
     "synonym": null
@@ -494,6 +681,16 @@
     },
     "synonym": null
   },
+  "GRANDIOSE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "impressive because of unnecessary largeness or grandeur; used to show disapproval",
+        "affectedly genteel"
+      ]
+    },
+    "synonym": null
+  },
   "GREGARIOUS": {
     "antonyms": null,
     "meaning": {
@@ -501,6 +698,19 @@
         "(of animals",
         "instinctively or temperamentally seeking and enjoying the company of others",
         "(of plants"
+      ]
+    },
+    "synonym": null
+  },
+  "GROTESQUE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "distorted and unnatural in shape or size; abnormal and hideous",
+        "ludicrously odd"
+      ],
+      "Noun": [
+        "art characterized by an incongruous mixture of parts of humans and animals interwoven with plants"
       ]
     },
     "synonym": null
@@ -541,11 +751,29 @@
     },
     "synonym": null
   },
+  "HEDONISTIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "devoted to pleasure"
+      ]
+    },
+    "synonym": null
+  },
   "HOMAGE": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "respectful deference"
+      ]
+    },
+    "synonym": null
+  },
+  "HUBRIS": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "overbearing pride or presumption"
       ]
     },
     "synonym": null
@@ -638,6 +866,15 @@
     },
     "synonym": null
   },
+  "INTREPID": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "invulnerable to fear or intimidation"
+      ]
+    },
+    "synonym": null
+  },
   "ITINERANT": {
     "antonyms": null,
     "meaning": {
@@ -697,6 +934,15 @@
     "meaning": {
       "Noun": [
         "a very wealthy or powerful businessman"
+      ]
+    },
+    "synonym": null
+  },
+  "MENDACITY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "the tendency to be untruthful"
       ]
     },
     "synonym": null
@@ -767,6 +1013,15 @@
     },
     "synonym": null
   },
+  "ONEROUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "not easily borne; wearing"
+      ]
+    },
+    "synonym": null
+  },
   "OSCILLATION": {
     "antonyms": null,
     "meaning": {
@@ -784,6 +1039,20 @@
       "Noun": [
         "extreme care in spending money; reluctance to spend money unnecessarily",
         "extreme stinginess"
+      ]
+    },
+    "synonym": null
+  },
+  "PARTISAN": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "devoted to a cause or party"
+      ],
+      "Noun": [
+        "a fervent and even militant proponent of something",
+        "an ardent and enthusiastic supporter of some person or activity",
+        "a pike with a long tapering double-edged blade with lateral projections; 16th and 17th centuries"
       ]
     },
     "synonym": null
@@ -861,6 +1130,42 @@
     },
     "synonym": null
   },
+  "PRAGMATIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "concerned with practical matters",
+        "or pragmatic",
+        "of or concerning the theory of pragmatism",
+        "guided by practical experience and observation rather than theory"
+      ],
+      "Noun": [
+        "an imperial decree that becomes part of the fundamental law of the land"
+      ]
+    },
+    "synonym": null
+  },
+  "PREVARICATION": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a statement that deviates from or perverts the truth",
+        "intentionally vague or ambiguous",
+        "the deliberate act of deviating from the truth"
+      ]
+    },
+    "synonym": null
+  },
+  "PRIVATION": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a state of extreme poverty",
+        "act of depriving someone of food or money or rights"
+      ]
+    },
+    "synonym": null
+  },
   "PROLIFIC": {
     "antonyms": null,
     "meaning": {
@@ -876,6 +1181,16 @@
     "meaning": {
       "Noun": [
         "power to influence or coerce"
+      ]
+    },
+    "synonym": null
+  },
+  "QUIESCENCE": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a state of quiet (but possibly temporary",
+        "quiet and inactive restfulness"
       ]
     },
     "synonym": null
@@ -925,6 +1240,16 @@
     "meaning": {
       "Noun": [
         "the act of expressing earnest opposition or protest"
+      ]
+    },
+    "synonym": null
+  },
+  "SAGACITY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "the mental ability to understand and discriminate between relations",
+        "the trait of forming opinions by distinguishing and evaluating"
       ]
     },
     "synonym": null
@@ -986,6 +1311,18 @@
     },
     "synonym": null
   },
+  "SORDID": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "morally degraded",
+        "unethical or dishonest",
+        "foul and run-down and repulsive",
+        "meanly avaricious and mercenary"
+      ]
+    },
+    "synonym": null
+  },
   "SPECIOUS": {
     "antonyms": null,
     "meaning": {
@@ -1023,6 +1360,34 @@
     "meaning": {
       "Adjective": [
         "consisting of a haphazard assortment of different kinds"
+      ]
+    },
+    "synonym": null
+  },
+  "TACITURN": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "habitually reserved and uncommunicative"
+      ]
+    },
+    "synonym": null
+  },
+  "TIMOROUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "timid by nature or revealing timidity"
+      ]
+    },
+    "synonym": null
+  },
+  "TORPIDITY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a state of motor and mental inactivity with a partial suspension of sensibility",
+        "inactivity resulting from lethargy and lack of vigor or energy"
       ]
     },
     "synonym": null
@@ -1093,6 +1458,16 @@
     "meaning": {
       "Adjective": [
         "capable of being corrupted"
+      ]
+    },
+    "synonym": null
+  },
+  "VENERATION": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a feeling of profound respect for someone or something",
+        "religious zeal; the willingness to serve God"
       ]
     },
     "synonym": null

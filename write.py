@@ -27,17 +27,20 @@ def write(verbose = 'N', test = True):
 
                 for word in wordList:
                     if word in prev_words.keys():
-                        print(f"You have encountered the word {word}")
-                        print("Try and remember")
+                        print(f"\nYou have encountered the word {word}")
+                        print(f"{colored('Try and remember', 'red')}\n")
                         
                         r = False
-                        if not test:
+                        if test == False:
                             wait = 'y'
                             while wait.upper()=='Y':
                                 time.sleep(10)
                                 if input("Remember ?: ").upper() == 'Y':
                                     wait = 'n'
                                     r = True
+                                if input("Cannot remember ? Want to look at the meaning ?(Y/N): ").upper() == 'Y':
+                                    r = False
+                                    break
                         
                         if not r:
                             nr = open("Not Remember", "r+")
@@ -55,7 +58,7 @@ def write(verbose = 'N', test = True):
                                 print("Heres the meaning: ")
                                 print("\n=============================\n")
                                 print(colored(word, 'green'))
-                                parse_dict(len(word), None, words[word])
+                                parse_dict(len(word), None, prev_words[word])
                                 print("\n=============================\n")
 
                     else:

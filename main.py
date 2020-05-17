@@ -11,12 +11,12 @@ def main():
         job = input("What would you like to do: ").lower()
         if job == 'w' or job == '1':
             verbose = input("Want to display meaning of new words you search? (Y/N): ").upper()
-            test = input("Giving a test/activity ? (Y/N): ").upper
+            test = input("Giving a test/activity ? (Y/N): ").upper()
             if test == 'Y':
                 test = True
             else:
                 test = False
-            write(verbose)
+            write(verbose, test)
 
         elif job == 'r' or job == '2':
             read()
