@@ -20,6 +20,15 @@
     },
     "synonym": null
   },
+  "ABET": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "assist or encourage, usually in some wrongdoing"
+      ]
+    },
+    "synonym": null
+  },
   "ACERBIC": {
     "antonyms": null,
     "meaning": {
@@ -39,11 +48,32 @@
     },
     "synonym": null
   },
+  "AFFRONT": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a deliberately offensive act or something producing the effect of deliberate disrespect"
+      ],
+      "Verb": [
+        "treat, mention, or speak to rudely"
+      ]
+    },
+    "synonym": null
+  },
   "AGGRANDIZEMENT": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "the act of increasing the wealth or prestige or power or scope of something"
+      ]
+    },
+    "synonym": null
+  },
+  "AGHAST": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "struck with fear, dread, or consternation"
       ]
     },
     "synonym": null
@@ -67,12 +97,50 @@
     },
     "synonym": null
   },
+  "ANNULAR": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "shaped like a ring"
+      ]
+    },
+    "synonym": null
+  },
+  "ANTIPATHETIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "(usually followed by `to'",
+        "characterized by antagonism or antipathy"
+      ]
+    },
+    "synonym": null
+  },
   "ANTIPATHY": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "a feeling of intense dislike",
         "the object of a feeling of intense aversion; something to be avoided"
+      ]
+    },
+    "synonym": null
+  },
+  "ANTIQUATED": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "so extremely old as seeming to belong to an earlier period"
+      ]
+    },
+    "synonym": null
+  },
+  "APHORISTIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "containing aphorisms or maxims",
+        "terse and witty and like a maxim"
       ]
     },
     "synonym": null
@@ -87,11 +155,31 @@
     },
     "synonym": null
   },
+  "APOPLECTIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "pertaining to or characteristic of apoplexy"
+      ]
+    },
+    "synonym": null
+  },
   "APPROBATORY": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "expressing or manifesting praise or approval"
+      ]
+    },
+    "synonym": null
+  },
+  "ARBOREAL": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "of or relating to or formed by trees",
+        "inhabiting or frequenting trees",
+        "resembling a tree in form and branching structure"
       ]
     },
     "synonym": null
@@ -124,6 +212,26 @@
     },
     "synonym": null
   },
+  "ASSUAGE": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "cause to be more favorably inclined; gain the good will of",
+        "satisfy (thirst",
+        "provide physical relief, as from pain"
+      ]
+    },
+    "synonym": null
+  },
+  "ASTUTE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "marked by practical hardheaded intelligence"
+      ]
+    },
+    "synonym": null
+  },
   "ATTRITION": {
     "antonyms": null,
     "meaning": {
@@ -147,12 +255,31 @@
     },
     "synonym": null
   },
+  "AVERSE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "(usually followed by `to'"
+      ]
+    },
+    "synonym": null
+  },
   "AXIOM": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "a saying that is widely accepted on its own merits",
         "(logic"
+      ]
+    },
+    "synonym": null
+  },
+  "BELIE": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "be in contradiction with",
+        "represent falsely"
       ]
     },
     "synonym": null
@@ -176,6 +303,15 @@
       ],
       "Verb": [
         "bring up a topic for discussion"
+      ]
+    },
+    "synonym": null
+  },
+  "BURNISHED": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "made smooth and bright by or as if by rubbing; reflecting a sheen or glow"
       ]
     },
     "synonym": null
@@ -225,6 +361,19 @@
     },
     "synonym": null
   },
+  "CAUSTIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "harsh or corrosive in tone",
+        "of a substance, especially a strong acid; capable of destroying or eating away by chemical action"
+      ],
+      "Noun": [
+        "any chemical substance that burns or destroys living tissue"
+      ]
+    },
+    "synonym": null
+  },
   "CELERITY": {
     "antonyms": null,
     "meaning": {
@@ -249,6 +398,15 @@
     "meaning": {
       "Noun": [
         "the use of tricks to deceive someone (usually to extract money from them"
+      ]
+    },
+    "synonym": null
+  },
+  "CLAMOROUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "conspicuously and offensively loud; given to vehement outcry"
       ]
     },
     "synonym": null
@@ -329,6 +487,15 @@
     },
     "synonym": null
   },
+  "COGNIZANT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "(sometimes followed by `of'"
+      ]
+    },
+    "synonym": null
+  },
   "CONFOUND": {
     "antonyms": null,
     "meaning": {
@@ -370,11 +537,41 @@
     },
     "synonym": null
   },
+  "CROTCHETY": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "having a difficult and contrary disposition"
+      ]
+    },
+    "synonym": null
+  },
   "CYNICAL": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others"
+      ]
+    },
+    "synonym": null
+  },
+  "DEBACLE": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a sudden and violent collapse",
+        "flooding caused by a tumultuous breakup of ice in a river during the spring or summer",
+        "a sound defeat"
+      ]
+    },
+    "synonym": null
+  },
+  "DEBONAIR": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "having a sophisticated charm",
+        "having a cheerful, lively, and self-confident air"
       ]
     },
     "synonym": null
@@ -394,6 +591,22 @@
     "meaning": {
       "Adjective": [
         "skillful in physical movements; especially of the hands"
+      ]
+    },
+    "synonym": null
+  },
+  "DELUGE": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "an overwhelming number or amount",
+        "a heavy rain",
+        "the rising of a body of water and its overflowing onto normally dry land"
+      ],
+      "Verb": [
+        "fill quickly beyond capacity; as with a liquid",
+        "charge someone with too many tasks",
+        "fill or cover completely, usually with water"
       ]
     },
     "synonym": null
@@ -428,6 +641,24 @@
     },
     "synonym": null
   },
+  "DESULTORY": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "marked by lack of definite plan or regularity or purpose; jumping from one thing to another"
+      ]
+    },
+    "synonym": null
+  },
+  "DETRACTOR": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "one who disparages or belittles the worth of something"
+      ]
+    },
+    "synonym": null
+  },
   "DIAPHANOUS": {
     "antonyms": null,
     "meaning": {
@@ -447,11 +678,31 @@
     },
     "synonym": null
   },
+  "DILATORY": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "wasting time"
+      ]
+    },
+    "synonym": null
+  },
   "DISABUSE": {
     "antonyms": null,
     "meaning": {
       "Verb": [
         "free somebody (from an erroneous belief"
+      ]
+    },
+    "synonym": null
+  },
+  "DISSEMBLE": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "make believe with the intent to deceive",
+        "hide under a false appearance",
+        "behave unnaturally or affectedly"
       ]
     },
     "synonym": null
@@ -487,11 +738,51 @@
     },
     "synonym": null
   },
+  "DYSPEPTIC": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "suffering from dyspepsia",
+        "irritable as if suffering from indigestion"
+      ],
+      "Noun": [
+        "a person suffering from indigestion"
+      ]
+    },
+    "synonym": null
+  },
   "EFFRONTERY": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "audacious (even arrogant"
+      ]
+    },
+    "synonym": null
+  },
+  "ELEGY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a mournful poem; a lament for the dead"
+      ]
+    },
+    "synonym": null
+  },
+  "ELOQUENT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "expressing yourself readily, clearly, effectively"
+      ]
+    },
+    "synonym": null
+  },
+  "ENCOMIUM": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a formal expression of praise"
       ]
     },
     "synonym": null
@@ -535,6 +826,15 @@
       ],
       "Noun": [
         "anything short-lived, as an insect that lives only for a day in its winged form"
+      ]
+    },
+    "synonym": null
+  },
+  "ERUDITE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "having or showing profound knowledge"
       ]
     },
     "synonym": null
@@ -596,11 +896,43 @@
     },
     "synonym": null
   },
+  "EXECRABLE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "of very poor quality or condition",
+        "unequivocally detestable",
+        "deserving a curse"
+      ]
+    },
+    "synonym": null
+  },
   "EXEGESIS": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "an explanation or critical interpretation (especially of the Bible"
+      ]
+    },
+    "synonym": null
+  },
+  "EXIGENCY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a pressing or urgent situation",
+        "a sudden unforeseen crisis (usually involving danger"
+      ]
+    },
+    "synonym": null
+  },
+  "FACILE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "superficially impressive, but lacking depth and attention to the true complexities of a subject",
+        "performing adroitly and without effort",
+        "expressing yourself readily, clearly, effectively"
       ]
     },
     "synonym": null
@@ -638,6 +970,16 @@
     "meaning": {
       "Adjective": [
         "showing inappropriate levity"
+      ]
+    },
+    "synonym": null
+  },
+  "FOMENT": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "try to stir up public opinion",
+        "bathe with warm water or medicated lotions"
       ]
     },
     "synonym": null
@@ -687,6 +1029,17 @@
       "Adjective": [
         "impressive because of unnecessary largeness or grandeur; used to show disapproval",
         "affectedly genteel"
+      ]
+    },
+    "synonym": null
+  },
+  "GRATUITOUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "without cause",
+        "costing nothing",
+        "unnecessary and unwarranted"
       ]
     },
     "synonym": null
@@ -797,6 +1150,15 @@
     },
     "synonym": null
   },
+  "INANE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "extremely silly or stupid"
+      ]
+    },
+    "synonym": null
+  },
   "INCORRIGIBLE": {
     "antonyms": null,
     "meaning": {
@@ -816,6 +1178,36 @@
     },
     "synonym": null
   },
+  "INDOLENT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "disinclined to work or exertion",
+        "(of tumors, e.g."
+      ]
+    },
+    "synonym": null
+  },
+  "INDULGENT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "characterized by or given to yielding to the wishes of someone",
+        "tolerant or lenient",
+        "being favorably inclined"
+      ]
+    },
+    "synonym": null
+  },
+  "INELUCTABLE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "impossible to avoid or evade"
+      ]
+    },
+    "synonym": null
+  },
   "INEXORABLE": {
     "antonyms": null,
     "meaning": {
@@ -826,12 +1218,40 @@
     },
     "synonym": null
   },
+  "INGRAIN": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "thoroughly work in",
+        "produce or try to produce a vivid impression of"
+      ]
+    },
+    "synonym": null
+  },
+  "INIMITABLE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "defying imitation; matchless"
+      ]
+    },
+    "synonym": null
+  },
   "INSIPID": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "lacking taste or flavor or tang",
         "lacking interest or significance or impact"
+      ]
+    },
+    "synonym": null
+  },
+  "INSOUCIANT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "marked by blithe unconcern"
       ]
     },
     "synonym": null
@@ -887,6 +1307,25 @@
     },
     "synonym": null
   },
+  "LAPSE": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a mistake resulting from inattention",
+        "a break or intermission in the occurrence of something",
+        "a failure to maintain a higher state"
+      ],
+      "Verb": [
+        "pass into a specified state or condition",
+        "end, at least for a long time",
+        "drop to a lower level, as in one's morals or standards",
+        "go back to bad behavior",
+        "let slip",
+        "pass by"
+      ]
+    },
+    "synonym": null
+  },
   "LASCIVIOUS": {
     "antonyms": null,
     "meaning": {
@@ -938,6 +1377,25 @@
     },
     "synonym": null
   },
+  "MALADY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "any unwholesome or desperate condition",
+        "impairment of normal physiological function affecting part or all of an organism"
+      ]
+    },
+    "synonym": null
+  },
+  "MARRED": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "blemished by injury or rough wear"
+      ]
+    },
+    "synonym": null
+  },
   "MENDACITY": {
     "antonyms": null,
     "meaning": {
@@ -965,6 +1423,15 @@
     },
     "synonym": null
   },
+  "MISANTHROPE": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "someone who dislikes people in general"
+      ]
+    },
+    "synonym": null
+  },
   "MISANTHROPIC": {
     "antonyms": null,
     "meaning": {
@@ -975,12 +1442,34 @@
     },
     "synonym": null
   },
+  "MODISH": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "in the current fashion or style"
+      ]
+    },
+    "synonym": null
+  },
   "MORIBUND": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "not growing or changing; without force or vitality",
         "being on the point of death; breathing your last"
+      ]
+    },
+    "synonym": null
+  },
+  "N": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent of all living tissues",
+        "the cardinal compass point that is at 0 or 360 degrees",
+        "a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes",
+        "(of a solution",
+        "the 14th letter of the Roman alphabet"
       ]
     },
     "synonym": null
@@ -1033,6 +1522,47 @@
     },
     "synonym": null
   },
+  "OSSIFY": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "become bony",
+        "make rigid and set into a conventional pattern",
+        "cause to become hard and bony"
+      ]
+    },
+    "synonym": null
+  },
+  "OVERWEENING": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "unrestrained, especially with regard to feelings",
+        "presumptuously arrogant"
+      ]
+    },
+    "synonym": null
+  },
+  "PALTRY": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "not worth considering",
+        "contemptibly small in amount"
+      ]
+    },
+    "synonym": null
+  },
+  "PANACEA": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "(Greek mythology",
+        "hypothetical remedy for all ills or diseases; once sought by the alchemists"
+      ]
+    },
+    "synonym": null
+  },
   "PARSIMONY": {
     "antonyms": null,
     "meaning": {
@@ -1069,6 +1599,26 @@
         "a musical composition that evokes rural life",
         "a letter from a pastor to the congregation",
         "a literary work idealizing the rural life (especially the life of shepherds"
+      ]
+    },
+    "synonym": null
+  },
+  "PEDAGOGICAL": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "of or relating to pedagogy"
+      ]
+    },
+    "synonym": null
+  },
+  "PEDAGOGY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "the principles and methods of instruction",
+        "the profession of a teacher",
+        "the activities of educating or instructing; activities that impart knowledge or skill"
       ]
     },
     "synonym": null
@@ -1130,6 +1680,39 @@
     },
     "synonym": null
   },
+  "PLUMB": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "exactly vertical"
+      ],
+      "Adverb": [
+        "completely; used as intensifiers",
+        "or plum",
+        "conforming to the direction of a plumb line",
+        "exactly"
+      ],
+      "Noun": [
+        "the metal bob of a plumb line"
+      ],
+      "Verb": [
+        "measure the depth of something",
+        "weight with lead",
+        "examine thoroughly and in great depth",
+        "adjust with a plumb line so as to make vertical"
+      ]
+    },
+    "synonym": null
+  },
+  "POLEMICAL": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "of or involving dispute or controversy"
+      ]
+    },
+    "synonym": null
+  },
   "PRAGMATIC": {
     "antonyms": null,
     "meaning": {
@@ -1141,6 +1724,18 @@
       ],
       "Noun": [
         "an imperial decree that becomes part of the fundamental law of the land"
+      ]
+    },
+    "synonym": null
+  },
+  "PRATTLE": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "idle or foolish and irrelevant talk"
+      ],
+      "Verb": [
+        "speak (about unimportant matters"
       ]
     },
     "synonym": null
@@ -1176,6 +1771,16 @@
     },
     "synonym": null
   },
+  "PUERILE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "of or characteristic of a child",
+        "displaying or suggesting a lack of maturity"
+      ]
+    },
+    "synonym": null
+  },
   "PUISSANCE": {
     "antonyms": null,
     "meaning": {
@@ -1195,11 +1800,31 @@
     },
     "synonym": null
   },
+  "RAMIFY": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "have or develop complicating consequences",
+        "grow and send out branches or branch-like structures",
+        "divide into two or more branches so as to form a fork"
+      ]
+    },
+    "synonym": null
+  },
   "RANCOR": {
     "antonyms": null,
     "meaning": {
       "Noun": [
         "a feeling of deep and bitter anger and ill-will"
+      ]
+    },
+    "synonym": null
+  },
+  "RATIFY": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "approve and express assent, responsibility, or obligation"
       ]
     },
     "synonym": null
@@ -1213,6 +1838,20 @@
     },
     "synonym": null
   },
+  "RECREANT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "having deserted a cause or principle",
+        "lacking even the rudiments of courage; abjectly fearful"
+      ],
+      "Noun": [
+        "an abject coward",
+        "a disloyal person who betrays or deserts his cause or religion or political party or friend etc."
+      ]
+    },
+    "synonym": null
+  },
   "REDRESS": {
     "antonyms": null,
     "meaning": {
@@ -1222,6 +1861,27 @@
       ],
       "Verb": [
         "make reparations or amends for"
+      ]
+    },
+    "synonym": null
+  },
+  "REFULGENT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "radiating or as if radiating light"
+      ]
+    },
+    "synonym": null
+  },
+  "RELEGATE": {
+    "antonyms": null,
+    "meaning": {
+      "Verb": [
+        "refer to another person for decision or judgment",
+        "assign to a lower position; reduce in rank",
+        "expel, as if by official decree",
+        "assign to a class or kind"
       ]
     },
     "synonym": null
@@ -1240,6 +1900,15 @@
     "meaning": {
       "Noun": [
         "the act of expressing earnest opposition or protest"
+      ]
+    },
+    "synonym": null
+  },
+  "RISIBLE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "arousing or provoking laughter"
       ]
     },
     "synonym": null
@@ -1268,6 +1937,19 @@
     },
     "synonym": null
   },
+  "SANGUINE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "confidently optimistic and cheerful",
+        "inclined to a healthy reddish color often associated with outdoor life"
+      ],
+      "Noun": [
+        "a blood-red color"
+      ]
+    },
+    "synonym": null
+  },
   "SCRUPULOUS": {
     "antonyms": null,
     "meaning": {
@@ -1284,6 +1966,26 @@
       "Adjective": [
         "pertaining to or containing or consisting of semen",
         "containing seeds of later development"
+      ]
+    },
+    "synonym": null
+  },
+  "SENTENTIOUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "abounding in or given to pompous or aphoristic moralizing",
+        "concise and full of meaning"
+      ]
+    },
+    "synonym": null
+  },
+  "SERENITY": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a disposition free from stress or emotion",
+        "the absence of mental stress or anxiety"
       ]
     },
     "synonym": null
@@ -1343,6 +2045,28 @@
     },
     "synonym": null
   },
+  "STRIATE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "marked with stria or striations"
+      ],
+      "Verb": [
+        "mark with striae or striations"
+      ]
+    },
+    "synonym": null
+  },
+  "STYGIAN": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "hellish",
+        "dark and dismal as of the rivers Acheron and Styx in Hades"
+      ]
+    },
+    "synonym": null
+  },
   "SUBSTANTIATE": {
     "antonyms": null,
     "meaning": {
@@ -1351,6 +2075,27 @@
         "represent in bodily form",
         "make real or concrete; give reality or substance to",
         "solidify, firm, or strengthen"
+      ]
+    },
+    "synonym": null
+  },
+  "SUCCINCT": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "briefly giving the gist of something"
+      ]
+    },
+    "synonym": null
+  },
+  "SUCCOR": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "assistance in time of difficulty"
+      ],
+      "Verb": [
+        "help in a difficult situation"
       ]
     },
     "synonym": null
@@ -1373,11 +2118,29 @@
     },
     "synonym": null
   },
+  "TENDENTIOUS": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "having or marked by a strong tendency especially a controversial one"
+      ]
+    },
+    "synonym": null
+  },
   "TIMOROUS": {
     "antonyms": null,
     "meaning": {
       "Adjective": [
         "timid by nature or revealing timidity"
+      ]
+    },
+    "synonym": null
+  },
+  "TIRADE": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "a speech of violent denunciation"
       ]
     },
     "synonym": null
@@ -1388,6 +2151,19 @@
       "Noun": [
         "a state of motor and mental inactivity with a partial suspension of sensibility",
         "inactivity resulting from lethargy and lack of vigor or energy"
+      ]
+    },
+    "synonym": null
+  },
+  "TOTALITARIAN": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "characterized by a government in which the political authority exercises absolute and centralized control",
+        "of or relating to the principles of totalitarianism according to which the state regulates every realm of life"
+      ],
+      "Noun": [
+        "an adherent of totalitarian principles or totalitarian government"
       ]
     },
     "synonym": null
@@ -1422,6 +2198,17 @@
     "meaning": {
       "Adjective": [
         "(of liquids"
+      ]
+    },
+    "synonym": null
+  },
+  "UNASSAILABLE": {
+    "antonyms": null,
+    "meaning": {
+      "Adjective": [
+        "immune to attack; incapable of being tampered with",
+        "impossible to assail",
+        "without flaws or loopholes"
       ]
     },
     "synonym": null
@@ -1488,6 +2275,15 @@
         "extremely poisonous or injurious; producing venom",
         "infectious; having the ability to cause disease",
         "harsh or corrosive in tone"
+      ]
+    },
+    "synonym": null
+  },
+  "VITUPERATION": {
+    "antonyms": null,
+    "meaning": {
+      "Noun": [
+        "abusive or venomous language used to express blame or censure or bitter deep-seated ill will"
       ]
     },
     "synonym": null

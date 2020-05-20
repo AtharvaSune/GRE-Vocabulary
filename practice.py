@@ -50,7 +50,6 @@ def practice():
     try:
         nr = open("Not Remember", 'r')
         nrList = nr.read().strip().split("\n")
-        print("open in append mode", nrList)
         nr.close()
     except:
         nr = open("Not Remember", "w+")
@@ -84,7 +83,6 @@ def practice():
         
         correctAnswers = 0
         wrongQuestions = []
-        print(questions)
         for i, question in enumerate(questions):
             print("\n=============================\n")
 
